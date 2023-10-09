@@ -1,0 +1,103 @@
+<mxfile host="app.diagrams.net" modified="2023-10-09T02:32:40.883Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:109.0) Gecko/20100101 Firefox/118.0" etag="vXh3tUN6ai0T41YtIrjN" version="22.0.4" type="github">
+  <diagram name="Page-1" id="iQzkMuGISaXR-o1Ut-Jd">
+    <mxGraphModel dx="845" dy="442" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="ikxGyzEP1atKrPy73UKP-16" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="380" y="490" as="sourcePoint" />
+            <mxPoint x="380" y="490" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ikxGyzEP1atKrPy73UKP-26" value="" style="endArrow=classic;html=1;rounded=0;jumpSize=6;startSize=6;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="419.5" y="90" as="sourcePoint" />
+            <mxPoint x="419.5" y="160" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ikxGyzEP1atKrPy73UKP-29" value="1 - 100" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="355" y="160" width="130" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="ikxGyzEP1atKrPy73UKP-30" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="ikxGyzEP1atKrPy73UKP-29">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="422" y="230" as="sourcePoint" />
+            <mxPoint x="420" y="300" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ikxGyzEP1atKrPy73UKP-31" value="Proses" style="rounded=0;whiteSpace=wrap;html=1;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="360" y="300" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="ikxGyzEP1atKrPy73UKP-32" value="Penebak / Angka" style="rhombus;whiteSpace=wrap;html=1;fontStyle=3" vertex="1" parent="1">
+          <mxGeometry x="360" y="440" width="120" height="110" as="geometry" />
+        </mxCell>
+        <mxCell id="ikxGyzEP1atKrPy73UKP-33" value="" style="endArrow=classic;html=1;rounded=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="ikxGyzEP1atKrPy73UKP-31" target="ikxGyzEP1atKrPy73UKP-32">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="420" y="380" as="sourcePoint" />
+            <mxPoint x="470" y="330" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ikxGyzEP1atKrPy73UKP-34" value="Jawaban benar" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="560" y="460" width="130" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="ikxGyzEP1atKrPy73UKP-36" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="480" y="494.5" as="sourcePoint" />
+            <mxPoint x="570" y="494.5" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ikxGyzEP1atKrPy73UKP-38" value="" style="endArrow=none;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="420" y="580" as="sourcePoint" />
+            <mxPoint x="420" y="550" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ikxGyzEP1atKrPy73UKP-39" value="" style="endArrow=none;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="190" y="580" as="sourcePoint" />
+            <mxPoint x="420" y="580" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ikxGyzEP1atKrPy73UKP-40" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="189.5" y="580" as="sourcePoint" />
+            <mxPoint x="189.5" y="630" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ikxGyzEP1atKrPy73UKP-41" value="Jika angka yang dimiliki lebih besar maka,harus dijawab dengan angka yang lebih kecil" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;fontStyle=1;align=center;" vertex="1" parent="1">
+          <mxGeometry x="40" y="630" width="300" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="ikxGyzEP1atKrPy73UKP-42" value="&lt;b&gt;Jika angka yang dimiliki lebih kecil maka,dijawab dengan angka yang lebih besar&lt;br&gt;&lt;/b&gt;" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
+          <mxGeometry x="485" y="630" width="300" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="ikxGyzEP1atKrPy73UKP-44" value="" style="endArrow=none;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="420" y="580" as="sourcePoint" />
+            <mxPoint x="650" y="580" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ikxGyzEP1atKrPy73UKP-46" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="649.5" y="580" as="sourcePoint" />
+            <mxPoint x="649.5" y="630" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ikxGyzEP1atKrPy73UKP-47" value="Start" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.start_1;whiteSpace=wrap;fontStyle=3" vertex="1" parent="1">
+          <mxGeometry x="365" y="30" width="110" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="ikxGyzEP1atKrPy73UKP-49" value="&lt;span&gt;END&lt;/span&gt;" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.start_2;whiteSpace=wrap;fontStyle=3" vertex="1" parent="1">
+          <mxGeometry x="370" y="730" width="100" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="ikxGyzEP1atKrPy73UKP-52" value="" style="endArrow=classic;html=1;rounded=0;entryX=0.3;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="420" y="580" as="sourcePoint" />
+            <mxPoint x="419.5" y="730" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="419.5" y="660" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
